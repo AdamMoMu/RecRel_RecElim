@@ -1,5 +1,5 @@
-#include "header.hpp"
 #include <math.h> 
+#include "header.hpp"
 
 int factorial(int n)
 {

@@ -1,5 +1,5 @@
 # Benchmarks
-The original folder contains the original kerenls for each benchmark.
+The original folder contains the original kernels for each benchmark.
 The other folders contain the refactored, HLS-safe code for each approach.
 The results for this paper are found under the RecRel_RecElim folder.
 

@@ -21,6 +21,11 @@ int pow(int n,int k)
   return prod;
 }
 #include "header.hpp"
+/*
+ * This program was taken from HLSRecurse and modified. 
+ * D. B. Thomas, "Synthesisable recursion for C++ HLS tools," 
+ * doi: 10.1109/ASAP.2016.7760777. 
+ */
 
 void heap_sum(int *f,int start,int end)
 {

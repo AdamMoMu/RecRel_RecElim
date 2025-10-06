@@ -1,4 +1,3 @@
-
 #include <math.h> 
 
 void array_shift(int *arr,int n)
