@@ -16,9 +16,9 @@ After installing ROSE, the analysis tool is built by running:
 ## Running the Benchmarks
 
 To run the selected set of benchmarks:
-```
+
     make test
-```
+
 
 The results are found in the benchmark folder under the "RecRel_RecElim" subfolder.
 Each test has its own folder. The header.hpp and test.cpp don't change and are only used for the HLS process.
