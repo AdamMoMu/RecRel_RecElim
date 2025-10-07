@@ -10,15 +10,16 @@ This repository contains:
 Requires installing the ROSE framework: https://github.com/rose-compiler/rose/wiki. Make sure the Makefile points to the correct location of ROSE.
 
 After installing ROSE, the analysis tool is built by running:
-
+```
     make
+```
 
 ## Running the Benchmarks
 
 To run the selected set of benchmarks:
-
+```
     make test
-
+```
 
 The results are found in the benchmark folder under the "RecRel_RecElim" subfolder.
 Each test has its own folder. The header.hpp and test.cpp don't change and are only used for the HLS process.
