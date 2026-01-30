@@ -3,7 +3,7 @@
 This is the official implementation for the paper **"Automatic Recursion Elimination using Recurrence Relations for Synthesis of Stack-free Hardware"** for the 2026 Asia and South Pacific Design Automation Conference (ASP-DAC 2026).
 
 This repository contains:
-- An implementation of the method described in the paper.
+- A simplified implementation of the method described in the paper.
 - The benchmark programs used for evaluation.
 
 ## Building the Tool
